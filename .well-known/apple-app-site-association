@@ -1,0 +1,14 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "7496Q8FAH3.Organization-Identifier.Grid",
+        "paths": [
+          "/grid",
+          "/grid/*"
+        ]
+      }
+    ]
+  }
+}
